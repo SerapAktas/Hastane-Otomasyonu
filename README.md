@@ -1,5 +1,5 @@
 # Hastane-Otomasyonu
-Otomasyon 4 modülden oluşmaktadır. C# kullanılmıştır.XML ile tüm kayıtlar tutulmuş ve diğer formlardan da XML ile veriler çekilmiştir.
+Otomasyon 3 modülden oluşmaktadır. C# kullanılmıştır.XML ile tüm kayıtlar tutulmuş ve diğer formlardan da XML ile veriler çekilmiştir.
 * 1)Doktor
    * a)Randevu tarihine göre hasta listesini görebilir.
    * b)Sıradaki hastayi bir butona basarak çağırabilir.Ve sıradaki hasta oluşan pop-up ile kendi adını ekranda görebilir. 
